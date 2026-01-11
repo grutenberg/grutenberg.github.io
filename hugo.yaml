@@ -3,3 +3,4 @@ languageCode: es
 defaultContentLanguage: es
 title: Gui-Deve
 theme: ["PaperMod"]
+publishDir: docs
