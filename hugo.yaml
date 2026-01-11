@@ -1,0 +1,5 @@
+baseURL: https://example.org/
+languageCode: es
+defaultContentLanguage: es
+title: Gui-Deve
+theme: ["PaperMod"]
