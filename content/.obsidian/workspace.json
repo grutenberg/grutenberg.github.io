@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "44b29e80946c15be",
+    "type": "split",
+    "children": [
+      {
+        "id": "c200cbe33d16c95e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eebd56f8b9d0543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "post/Cómo crear un sitio como este/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1ce0eb8154b5878",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fd8988b3b073ad2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2acf7fe7a6c316e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "08d05afb55fcf4ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "d825d91d4bc98032",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "539a019125111594",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d73648e4672c8bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dbbf419b3fd9dbb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "post/hola-mundo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de hola-mundo"
+            }
+          },
+          {
+            "id": "4bfecddd172428da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "post/hola-mundo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de hola-mundo"
+            }
+          },
+          {
+            "id": "6dc52dd9fefaed6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "80efb4d39e77666e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "2418221227a8c08e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "post/hola-mundo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de hola-mundo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "6eebd56f8b9d0543",
+  "lastOpenFiles": [
+    "post/Cómo crear un sitio como este/docs_img.png",
+    "post/Cómo crear un sitio como este/index.md",
+    "post/Cómo crear un sitio como este/repo_init.png",
+    "repositorio.md",
+    "post/Cómo crear un sitio como este/portada.png",
+    "post/Cómo crear un sitio como este/sitio_plano.png",
+    "Pasted image 20260111180732.png",
+    "articles/model.md",
+    "post/hola-mundo.md",
+    "Pasted.md",
+    "post/Cómo crear un sitio como este",
+    "templates/base.md",
+    "articles",
+    "post/nuevo.md",
+    "post/nuevo 1.md",
+    "templates",
+    "plantillas/base.md",
+    "test.md",
+    "plantillas",
+    "Sin título.base",
+    "post/suzuki-125.md"
+  ]
+}

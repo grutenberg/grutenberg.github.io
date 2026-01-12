@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Gui-Deve</title>
-    <link>https://grutenberg.github.io/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on Gui-Deve</description>
     <generator>Hugo -- 0.154.4</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 10 Jan 2026 22:42:35 -0300</lastBuildDate>
-    <atom:link href="https://grutenberg.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jan 2026 17:08:42 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cómo crear un sitio como este</title>
+      <link>http://localhost:1313/post/c%C3%B3mo-crear-un-sitio-como-este/</link>
+      <pubDate>Sun, 11 Jan 2026 17:08:42 -0300</pubDate>
+      <guid>http://localhost:1313/post/c%C3%B3mo-crear-un-sitio-como-este/</guid>
+      <description>&lt;p&gt;Puede ser para muchos interesante el hecho crear su propia página web y poner en ella lo que sea que uno quiera, o al menos para mi siempre lo fue.&lt;/p&gt;
+&lt;p&gt;Hacer este sitio básico solo me llevó un día y la verdad es que por el poco tiempo que lleva creo que es algo que vale totalmente la pena.&lt;/p&gt;
+&lt;p&gt;Al día de la fecha de esta nota, este blog solamente cuenta con dos artículos, y ninguna estructura compleja. Puedo empezar a nombrar las siguientes:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>¡Hola, Mundo!</title>
-      <link>https://grutenberg.github.io/post/hola-mundo/</link>
+      <link>http://localhost:1313/post/hola-mundo/</link>
       <pubDate>Sat, 10 Jan 2026 22:42:35 -0300</pubDate>
-      <guid>https://grutenberg.github.io/post/hola-mundo/</guid>
+      <guid>http://localhost:1313/post/hola-mundo/</guid>
       <description>&lt;p&gt;Este es mi primer post, y esperemos que sigan muchos más.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Créditos para &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; que soporta la creación de archívos estáticos para este sito.&lt;/p&gt;
